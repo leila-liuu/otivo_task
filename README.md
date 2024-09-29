@@ -1,8 +1,11 @@
 # otivo_task
 **Test Summary**
 Test Case 1: Verifies user details input (age, salary, super balance, etc.).
+
 Test Case 2: Validates the “How we work this out” details and updates user information.
+
 Test Case 3: Adds partner details (age, income, contribution rate, etc.).
+
 Test Case 4: Downloads the retirement report and handles the download event.
 
 **Prerequisites**
