@@ -10,6 +10,7 @@ Test Case 3: Adds partner details (age, income, contribution rate, etc.).
 Test Case 4: Downloads the retirement report and handles the download event.
 
 **Prerequisites**
+
 Before setting up and running the tests, ensure you have the following installed:
 
 Node.js (v14 or higher) and npm: You can download Node.js from here.
@@ -21,6 +22,7 @@ npm -v
 
 
 **Project Setup**
+
 _1. Clone or Download the Project_
 First, clone the repository or download the code:
 
